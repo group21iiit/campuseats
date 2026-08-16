@@ -1,2 +1,2 @@
 # campuseats
-Campuseats is a web services project for CS543.
+CampusEats is a food ordering platform
